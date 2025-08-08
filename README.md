@@ -12,7 +12,7 @@ This task demonstrates SQL operations including:
 
 ## Files in this Repository
 - `internship task4.sql` → Contains all SQL queries used in the task.
-- `/screenshots` → Contains execution proofs for each query.
+- `Screen shot of task 4.zip` → Contains execution proofs for each query.
 
 ## Execution Order
 1. Aggregate Functions
