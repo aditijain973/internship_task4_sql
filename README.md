@@ -11,7 +11,7 @@ This task demonstrates SQL operations including:
 - Query performance analysis with EXPLAIN
 
 ## Files in this Repository
-- `internship_task4.sql` → Contains all SQL queries used in the task.
+- `internship task4.sql` → Contains all SQL queries used in the task.
 - `/screenshots` → Contains execution proofs for each query.
 
 ## Execution Order
